@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseMessaging</string>
+    <string name="firebase_messaging">Firebase messaging</string>
+    <string name="last_message">Last message</string>
+    <string name="testing_message">Testing message</string>
+    <string name="firebase_messaging_token">Firebase messaging token</string>
+</resources>
